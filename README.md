@@ -1,4 +1,4 @@
-# a URL shortener example app!
+# a URL shortener app using Ts!
 
 ## getting up and running
 
